@@ -58,33 +58,33 @@ nav {
 	text-shadow: 0 1.5px 10px #f71;
 	text-align: center;
 	padding: 0;
+	& > h3 {
+		position: absolute;
+		top: 120px;
+		width: 100%;
+		font-size: 5em;	
+		letter-spacing: 0.15em;
+	}
+
+	& > h4 {
+		position: absolute;
+		top: 220px;
+		width: 100%;
+		font-size: 3em;	
+		letter-spacing: 0.1em;
+	}
+
+	& > h1 {
+		position: absolute;
+		bottom: 10px;
+		width: 100%;
+		font-size: 1.3em;	
+		letter-spacing: 0.1em;
+	}
 }
 
 /* http://cdn.fishki.net/upload/post/2017/03/31/2256141/81a0af12608bf7f4aaa6ebd591a32cd7.jpg */
 
-.head-banner > h1 {
-	position: absolute;
-	top: 120px;
-	width: 100%;
-	font-size: 5em;	
-	letter-spacing: 0.15em;
-}
-
-.head-banner > h2 {
-	position: absolute;
-	top: 220px;
-	width: 100%;
-	font-size: 3em;	
-	letter-spacing: 0.1em;
-}
-
-.head-banner > h5 {
-	position: absolute;
-	bottom: 10px;
-	width: 100%;
-	font-size: 1.3em;	
-	letter-spacing: 0.1em;
-}
 
 .description {
 	width: 75%;
