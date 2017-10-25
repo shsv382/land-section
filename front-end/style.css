@@ -59,7 +59,7 @@ nav {
 
 /* http://cdn.fishki.net/upload/post/2017/03/31/2256141/81a0af12608bf7f4aaa6ebd591a32cd7.jpg */
 
-.head-banner > h1 {
+.head-banner > h3 {
 	position: absolute;
 	top: 120px;
 	width: 100%;
@@ -67,7 +67,7 @@ nav {
 	letter-spacing: 0.15em;
 }
 
-.head-banner > h2 {
+.head-banner > h4 {
 	position: absolute;
 	top: 220px;
 	width: 100%;
@@ -75,7 +75,7 @@ nav {
 	letter-spacing: 0.1em;
 }
 
-.head-banner > h5 {
+.head-banner > h1 {
 	position: absolute;
 	bottom: 10px;
 	width: 100%;
